@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My First Blog on Github.io.
 
 [Link to another page](another-page).
 
